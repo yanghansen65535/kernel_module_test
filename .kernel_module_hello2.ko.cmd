@@ -1,0 +1,1 @@
+cmd_/home/yhs159/workspace/kernel_module_test/kernel_module_hello2.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/yhs159/workspace/kernel_module_test/kernel_module_hello2.ko /home/yhs159/workspace/kernel_module_test/kernel_module_hello2.o /home/yhs159/workspace/kernel_module_test/kernel_module_hello2.mod.o ;  true
